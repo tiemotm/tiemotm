@@ -3,4 +3,4 @@
 ## CS bachelor student at Heinrich-Heine-University 👨🏼‍🎓
 ## and Student developer at mailo Versicherung AG 👨‍💻
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tiemotm&show_icons=true&theme=buefy)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tiemotm&count_private=true&show_icons=true&theme=buefy)
